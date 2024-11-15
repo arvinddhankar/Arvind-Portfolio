@@ -212,7 +212,7 @@ section .title::after {
 /*  Home  */
 .home {
     display: flex;
-    background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat center;
+    background-image: url(images\ \(4\).jpeg);
     height: 100vh;
     color: #fff;
     min-height: 500px;

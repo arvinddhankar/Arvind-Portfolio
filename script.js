@@ -42,8 +42,7 @@ $(document).ready(function () {
         strings: [
             "Frontend Developer",
             "Python Developer",
-            "Founder",
-            "Author"
+            
         ],
         typeSpeed: 100,
         backSpeed: 60,
